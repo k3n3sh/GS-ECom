@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Shopping bag -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M46,50 L46,42 A8,8 0 0,1 62,42 L62,50"
+        android:strokeWidth="3.5"
+        android:strokeColor="@color/sand"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="@color/sand"
+        android:pathData="M38,46 L70,46 L68,75 Q67.8,78 65,78 L43,78 Q40.2,78 40,75 Z" />
+</vector>

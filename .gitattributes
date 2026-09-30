@@ -1,0 +1,6 @@
+* text=auto
+
+# Keep script line endings per OS
+gradlew text eol=lf
+*.bat text eol=crlf
+*.jar binary

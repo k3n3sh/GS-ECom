@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">GS ECom</string>
+
+    <!-- Product list -->
+    <string name="product_list_title">Products</string>
+    <string name="loading_products">Loading products</string>
+    <string name="empty_products">No products to show right now</string>
+    <string name="out_of_stock">Out of stock</string>
+
+    <!-- Product detail -->
+    <string name="loading_product">Loading product</string>
+    <string name="detail_colour">Colour: %1$s</string>
+    <string name="detail_fit">Fit: %1$s</string>
+    <string name="detail_sizes">Sizes</string>
+    <string name="detail_description">Description</string>
+    <string name="size_sold_out">%1$s, sold out</string>
+    <string name="image_failed_retry">Image failed to load. Tap to retry</string>
+
+    <!-- Actions -->
+    <string name="action_back">Back</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_retry_image">Retry image</string>
+    <string name="action_view_details">view details</string>
+    <string name="action_demo_notification">send a demo notification</string>
+
+    <!-- Product labels -->
+    <string name="label_new">New</string>
+    <string name="label_going_fast">Going fast</string>
+    <string name="label_limited_edition">Limited edition</string>
+    <string name="label_popular">Popular</string>
+    <string name="label_recycled_nylon">Recycled nylon</string>
+    <string name="label_recycled_polyester">Recycled polyester</string>
+
+    <!-- Errors -->
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_network">Couldn\'t reach the server. Check your connection and try again.</string>
+    <string name="error_server">Something went wrong on our side (error %1$d)</string>
+    <string name="error_invalid_data">We couldn\'t read the product data</string>
+    <string name="error_not_found">This product is no longer available</string>
+    <string name="error_unknown">Something went wrong</string>
+
+    <!-- Demo notification -->
+    <string name="notification_channel_products">Product updates</string>
+    <string name="notification_text">Tap to view</string>
+</resources>
